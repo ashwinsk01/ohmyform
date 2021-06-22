@@ -8,7 +8,7 @@
 [![Lokalise](https://badgen.net/badge/Lokalise/EN/green?icon=libraries)](https://app.lokalise.com/public/379418475ede5d5c6937b0.31012044/)
 ![Last Commit](https://badgen.net/github/last-commit/ohmyform/ohmyform)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ohmyform/ohmyform/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ashwinsk01/ohmyform/tree/master)
 
 [Demo](https://omf-demo.herokuapp.com/)
 

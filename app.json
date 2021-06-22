@@ -1,7 +1,7 @@
 {
   "name": "ohmyform",
   "description": "Opensource alternative to TypeForm",
-  "repository": "https://github.com/ohmyform/ohmyform",
+  "repository": "https://github.com/ashwinsk01/ohmyform",
   "logo": "https://raw.githubusercontent.com/ohmyform/ohmyform/master/public/logo.png",
   "keywords": [
     "form",
