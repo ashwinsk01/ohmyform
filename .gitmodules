@@ -1,6 +1,0 @@
-[submodule "ui"]
-	path = ui
-	url = https://github.com/ashwinsk01/ui.git
-[submodule "api"]
-	path = api
-	url = https://github.com/ashwinsk01/api.git
